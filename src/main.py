@@ -15,8 +15,8 @@ def main():
     Display:                  |Display all:               |Add:
         1 by genre            |   2 from main media       |   4 to main media
         1.1 by platform       |   2.1 from genre          |   4.1 to genre
-        1.2 by publisher      |   2.2 from platform       |   4.2 to platform
-        1.3 by type of media  |   2.3 from type of media  |   4.3 to type of media
+        (1.2 by publisher)    |   2.2 from platform       |   4.2 to platform
+        (1.3 by type of media)|   2.3 from type of media  |   4.3 to type of media
               
     To quit the programm just press ENTER
               """)
